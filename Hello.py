@@ -21,10 +21,10 @@ if calculator:
     st.write('좋아요!')
 lottery = st.checkbox('Lottery')
 if lottery:
-    st.image('./images/따봉1.png')
+    st.image('./images/d1.png')
 phone_number = st.checkbox('Phone Number')
 if phone_number:
-    st.image('./images/따봉2.png')
+    st.image('./images/d2.png')
 
 
 st.write('### :mag: :blue[기본 체험]')
@@ -160,7 +160,7 @@ with col3:
 
 with col4:
     if st.button('불일치'):
-        st.image('./images/불일치.png')
+        st.image('./images/inco.png')
         st.write('#### 다시 그려주세요')
         
 with col5:
