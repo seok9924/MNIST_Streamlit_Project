@@ -8,7 +8,7 @@ from utils import set_bg
 
 set_bg('images/mnist2.png')
 
-st.sidebar.image('./images/sidebar_main.jpg')
+# st.sidebar.image('./images/sidebar_main.jpg')
 
 st.image('./images/title.png')
 
