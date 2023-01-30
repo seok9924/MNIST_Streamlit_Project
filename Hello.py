@@ -178,7 +178,6 @@ with col5:
     
 st.write("### :bluepurple[그래프로 보기]")
 st.write("해당 숫자일 확률을 나타냅니다.")
-# st.bar_chart(y)
 
 st.write('### BGM :musical_score:')
 st.write('Fantasie Impromptu')
