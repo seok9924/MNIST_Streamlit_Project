@@ -6,6 +6,7 @@ import numpy as np
 from streamlit_vertical_slider import vertical_slider
 from utils import set_bg
 
+st.set_page_config(page_title="Main", page_icon="📈")
 set_bg('images/mnist2.png')
 
 st.sidebar.image('./images/sidebar_main.jpg')
