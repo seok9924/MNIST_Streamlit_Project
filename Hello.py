@@ -21,7 +21,7 @@ if calculator:
     st.write('좋아요!')
 lottery = st.checkbox('Lottery')
 if lottery:
-    st.image('./images/d1.png')
+st.image('./images/d1.png')
 phone_number = st.checkbox('Phone Number')
 if phone_number:
     st.image('./images/d2.png')
