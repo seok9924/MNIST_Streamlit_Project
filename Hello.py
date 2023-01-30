@@ -9,7 +9,6 @@ from utils import set_bg
 set_bg('images/mnist2.png')
 
 st.sidebar.image('./images/sidebar_main.jpg')
-st.sidebar.success("Select a demo above.")
 
 st.image('./images/title.png')
 
